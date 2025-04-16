@@ -143,7 +143,7 @@ Field Output reported at integration points for region: STENA-1.Region_2
              1002                4               0.               0.               0.               0.
              1003                1               0.               0.               0.               0.
              1003                2               0.               0.               0.               0.
-             1003                3               0.               0.               0.               0.
+             1003                3               0.               0.               0.               0. qq
              1003                4               0.               0.               0.               0.
              1004                1               0.               0.               0.               0.
              1004                2               0.               0.               0.               0.
