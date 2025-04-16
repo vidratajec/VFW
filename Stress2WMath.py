@@ -42,10 +42,11 @@ def parse_abaqus_report(file_path, output_json_path, target_region):
                 for row in row_pattern.findall(data_block):
                     element, int_pt, s11, s22, s33, s12 = row
                     parsed_data[frame_id][int(element)][int(int_pt)] = {
-                        "S.S11": float(s11),
-                        "S.S22": float(s22),
-                        "S.S33": float(s33),
-                        "S.S12": float(s12)
+                        "S": [float(s11),float(s22),float(s33),float(s12)]
+                        #"S11": float(s11),
+                        #"S22": float(s22),
+                        #"S33": float(s33),
+                        #"S12": float(s12)
                     }
 
     # Save JSON
