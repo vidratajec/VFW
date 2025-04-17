@@ -1,22 +1,3 @@
-********************************************************************************
-Field Output Report, written Thu Apr 17 14:03:28 2025
-
-Source 1
----------
-
-   ODB: C:/lnms/Vid/cross-hole/cross-hole-U.odb
-   Step: loading
-   Frame: Increment     10: Step Time =    1.000
-
-Loc 1 : Nodal values from source 1
-
-Output sorted by column "Node Label".
-
-Field Output reported at nodes for part: SPECIMEN-1
-
-             Node      COORD.COOR1      COORD.COOR2
-            Label           @Loc 1           @Loc 1
-----------------------------------------------------
                 1       23.3263378       23.3263378
                 2       15.6395588       15.6395588
                 3       20.4067039              5.5
@@ -81,5 +62,3 @@ Field Output reported at nodes for part: SPECIMEN-1
                62      -15.4815693       13.1200323
                63       13.1200323      -15.4815693
                64      -15.4815693      -2.12003207
-
-
