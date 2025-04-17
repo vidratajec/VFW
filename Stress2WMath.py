@@ -53,7 +53,7 @@ def parse_abaqus_report(file_path, output_json_path, target_region):
     with open(output_json_path, "w") as json_file:
         json.dump(parsed_data, json_file, indent=2)
 
-    #print(f"Parsed data for region '{target_region}' saved to: {output_json_path}")
+    print(f"Parsed data for region '{target_region}' saved to: {output_json_path}")
 
 
-parse_abaqus_report("CrossHoleData/Stress.txt", "CrossHoleData/Stress.JSON", target_region="STENA-1.Region_1")
+parse_abaqus_report("CrossHoleData/Stress.txt", "CrossHoleData/Stress.JSON", target_region="SPECIMEN-1.Region_1")
