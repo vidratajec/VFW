@@ -1,25 +1,3 @@
-********************************************************************************
-Field Output Report, written Thu Apr 17 13:53:50 2025
-
-Source 1
----------
-
-   ODB: C:/lnms/Vid/cross-hole/cross-hole-U.odb
-   Step: loading
-   Frame: Increment     10: Step Time =    1.000
-
-Loc 1 : Element nodal values from source 1 ( Average criteria = 75%, Not averaged across region boundaries )
-
-Output sorted by column "Element Label".
-
-Field Output reported at element nodes for region: SPECIMEN-1.Region_1
-   Computation algorithm: EXTRAPOLATE_COMPUTE_AVERAGE
-   Averaged at nodes
-   Averaging regions: ODB_REGIONS
-
-          Element             Node     COORD.COORD1     COORD.COORD2
-            Label            Label           @Loc 1           @Loc 1
----------------------------------------------------------------------
                 1                1       23.3263397       23.3263397
                 1               25       29.4204712       19.0790405
                 1               26       19.4827347       19.4827347
@@ -180,6 +158,3 @@ Field Output reported at element nodes for region: SPECIMEN-1.Region_1
                40               54      -18.4204712      -8.07904053
                40               56             -25.  -713.306069E-03
                40               64      -15.4815693      -2.12003207
-
-
-
