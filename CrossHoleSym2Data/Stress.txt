@@ -12,7 +12,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -641,7 +641,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -1270,7 +1270,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -1899,7 +1899,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -2528,7 +2528,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -3157,7 +3157,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -3786,7 +3786,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -4415,7 +4415,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -5044,7 +5044,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -5673,7 +5673,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
@@ -6302,7 +6302,7 @@ Loc 1 : Integration point values from source 1
 
 Output sorted by column "Element Label".
 
-Field Output reported at integration points for part: SPECIMEN-1
+Field Output reported at integration points for part: SPECIMEN-1.Region_1
 
           Element              Int            S.S11            S.S22            S.S33            S.S12
             Label               Pt           @Loc 1           @Loc 1           @Loc 1           @Loc 1
